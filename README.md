@@ -12,3 +12,6 @@ Að gera viðhald á tölvunni til að minnka líkur á að hún eyðileggst
 ## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
 ## verjast því þegar unnið er með tölvubúnað?
 Electrostatic discharge er stöðurafmagn, stöðurafmagn er þegar tveir hlutir snertast og rafmagn kemur á milli þeirra. Við getum varist því með því að setja Antistatic Mat undir eða við hliðiná tölvunni og nota Antistatic Wrist Strap svo þú gefur ekki frá þér stöðurafmagn	
+
+## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
+Passa að hún passi í kassann of er með nóg watts
