@@ -16,7 +16,7 @@ Electrostatic discharge er stöðurafmagn, stöðurafmagn er þegar tveir hlutir
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 Passa að hún passi í kassann of er með nóg watts
 
-6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 * 1. finna vandamálið 
 * 2. komast að kenningum um hvað er að 
 * 3. prófa kenninguna 
