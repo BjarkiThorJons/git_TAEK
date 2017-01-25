@@ -9,8 +9,8 @@ Read_only memory er geymsla með grundvallar aðgerðar leiðbeiningar fyrir tö
 ## 3. Hvað er fyrirbyggjandi viðhald?
 Að gera viðhald á tölvunni til að minnka líkur á að hún eyðileggst
 
-## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
-## verjast því þegar unnið er með tölvubúnað?
+## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+
 Electrostatic discharge er stöðurafmagn, stöðurafmagn er þegar tveir hlutir snertast og rafmagn kemur á milli þeirra. Við getum varist því með því að setja Antistatic Mat undir eða við hliðiná tölvunni og nota Antistatic Wrist Strap svo þú gefur ekki frá þér stöðurafmagn	
 
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
@@ -34,9 +34,8 @@ Jaðar tæki eru það sem sér um samskipti á milli þín og tölvunnar, þau 
 ## 9. Nefndu þrjú dæmi um inntakstæki.
 lykklaborð, mús, myndavél
 
-## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
-## leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
-## fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar semfram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
+
 | Íhlutir                                                    |kostnaður |staður      |
 |------------------------------------------------------------|:-------: |-----------:|
 |Elite K350 án aflgjafa m/glugga                             |  9.896 kr|tölvulistinn|
@@ -46,4 +45,4 @@ lykklaborð, mús, myndavél
 |STRIX GTX1060 6GB 3 ára ábyrgð Gaming                       | 53.995 kr|tölvulistinn|
 |16GB 2x8GB 2400MHz CL11 Pro Vengeance rautt                 | 17.995 kr|tölvulistinn|
 |Aurum Pro 1200W Modular GOLD aflgjafi                       | 35.996 kr|tölvulistinn|
-|Samtals                                                     |220.770 kr|tÖlvulistinn|
+|Samtals                                                     |220.770 kr|tölvulistinn|
