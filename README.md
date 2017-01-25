@@ -26,4 +26,7 @@ Passa að hún passi í kassann of er með nóg watts
 
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
-munurinn er að closed ended er þar sem svarið er bara já eða nei en open ended er þegar svarið er meira en já og nei. 
+munurinn er að closed ended er þar sem svarið er bara já eða nei en open ended er þegar svarið er meira en já og nei.
+
+## 8. Hvað eru jaðartæki?
+Jaðar tæki eru það sem sér um samskipti á milli þín og tölvunnar, þau eru bæði innbyggð (t.d harði diskurinn, geisladrif og disklingardrif) og ytri(t.d Mús og lykklaborð)
