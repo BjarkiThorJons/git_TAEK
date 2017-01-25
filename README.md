@@ -30,3 +30,6 @@ munurinn er að closed ended er þar sem svarið er bara já eða nei en open en
 
 ## 8. Hvað eru jaðartæki?
 Jaðar tæki eru það sem sér um samskipti á milli þín og tölvunnar, þau eru bæði innbyggð (t.d harði diskurinn, geisladrif og disklingardrif) og ytri(t.d Mús og lykklaborð)
+
+## 9. Nefndu þrjú dæmi um inntakstæki.
+lykklaborð, mús, myndavél
